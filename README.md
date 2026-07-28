@@ -48,10 +48,5 @@ Open a pull request back to this repository.
 
 The goal is not perfection - the goal is to experience the open source contribution workflow end to end.
 
-## Need help?
-
-- Check docs/cheat-sheet.md for a quick glossary of GitHub terms.
-- Ask a facilitator during the workshop.
-- Browse the GitHub Docs (https://docs.github.com/) for repositories, issues, pull requests, and Git basics.
 
 Happy contributing!

@@ -1,6 +1,6 @@
 # Welcome to the Practice Repo
 
-This file is here so you have somethign small to practice on during the workshop.
+This file is here so you have something small to practice on during the workshop.
 
 Beginner-friendly things you could try here:
 
